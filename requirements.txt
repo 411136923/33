@@ -12,3 +12,4 @@ shioaji
 pynacl
 pandas
 pandas-ta
+setuptools
