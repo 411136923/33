@@ -1,6 +1,4 @@
 
-
-numpy
 streamlit
 streamlit_webrtc
 streamlit-nested-layout
@@ -13,3 +11,4 @@ pynacl
 pandas
 pandas-ta
 setuptools
+numpy==1.24.4
